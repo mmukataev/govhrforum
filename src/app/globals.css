@@ -3,6 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  --customaccent: #04B3B3;
+  --customtext: #252a42;
 }
 
 @theme inline {
@@ -19,8 +22,32 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--customtext);
+
+    flex: 1;
+}
+
+input:not([type="radio"]):not([type="checkbox"]) {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.container{
+  padding-inline: 10px;
 }

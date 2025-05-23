@@ -1,0 +1,12 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon/Outline/chevron-up">
+<mask id="mask0_920_13510" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="11" y="14" width="18" height="11">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M26.6668 24.1666C26.2401 24.1666 25.8135 24.0033 25.4885 23.6783L19.9801 18.1699L14.4918 23.4699C13.8285 24.1099 12.7751 24.0933 12.1351 23.4283C11.4951 22.7666 11.5135 21.7099 12.1751 21.0716L18.8418 14.6349C19.4968 14.0033 20.5368 14.0116 21.1785 14.6549L27.8451 21.3216C28.4968 21.9733 28.4968 23.0266 27.8451 23.6783C27.5201 24.0033 27.0935 24.1666 26.6668 24.1666" fill="white"/>
+</mask>
+<g mask="url(#mask0_920_13510)">
+<g id="&#240;&#159;&#142;&#168; Color">
+<rect id="Base" width="40" height="40" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
